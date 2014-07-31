@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TaskBasedAsyncPattern1
 {
+    /// <summary>
+    ///   Shows async execution of VOID methods
+    /// </summary>
     internal class Program
     {
         public static void Main()
@@ -17,7 +20,7 @@ namespace TaskBasedAsyncPattern1
             {
                 Task t = Task.Run(() =>
                 {
-                    SomeMethod(dirName, list);
+                     SomeMethod(dirName, list);
                 });
                 tasks.Add(t);
             }
@@ -34,5 +37,6 @@ namespace TaskBasedAsyncPattern1
             foreach (var path in Directory.GetFiles(dirName))
                 list.Add(path);
         }
+
     }
 }
