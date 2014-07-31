@@ -1,0 +1,6 @@
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\AutoTest.Net\_tmpIntermediateAT\TaskBasedAsyncPattern1.csprojResolveAssemblyReference.cache
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\AutoTest.Net\TaskBasedAsyncPattern1.exe.config
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\AutoTest.Net\_tmpIntermediateAT\TaskBasedAsyncPattern1.exe
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\AutoTest.Net\_tmpIntermediateAT\TaskBasedAsyncPattern1.pdb
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\AutoTest.Net\TaskBasedAsyncPattern1.exe
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\AutoTest.Net\TaskBasedAsyncPattern1.pdb

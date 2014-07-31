@@ -1,0 +1,5 @@
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\Debug\TaskBasedAsyncPattern1.exe.config
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\Debug\TaskBasedAsyncPattern1.exe
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\bin\Debug\TaskBasedAsyncPattern1.pdb
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\obj\Debug\TaskBasedAsyncPattern1.exe
+D:\MyProjects\Patterns\TaskBasedAsyncPattern1\TaskBasedAsyncPattern1\obj\Debug\TaskBasedAsyncPattern1.pdb
